@@ -1,6 +1,6 @@
 # Ecohouse.github.io
 Ссылка на проект 
-https://nzeroname.github.io/Ecohouse.github.io/
+https://nzeroname.github.io/Ecohouse.github.io/<br>
 Мой первый сверстанный проект.<br>
 Проект не коммерческий.<br>
 
